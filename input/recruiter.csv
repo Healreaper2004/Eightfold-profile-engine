@@ -1,3 +1,16 @@
-name,email,phone,current_company,title
-Ayush Arya,ayush@gmail.com,+91 9876543210,Google,SDE
-John Doe,john@amazon.com,+1 9876543210,Amazon,SDE II
+full_name,email,phone,current_company,title
+Ayush Arya,ayush.arya1106@gmail.com,+919876543210,Tata Consultancy Services,Software Engineer
+Priya Sharma,priya.sharma@gmail.com,+919811223344,Infosys,Senior Software Engineer
+Rahul Verma,rahul.verma@gmail.com,+919845678901,Wipro,Backend Developer
+Ananya Singh,ananya.singh@gmail.com,+919812345678,Accenture,Full Stack Developer
+Rohan Mehta,rohan.mehta@gmail.com,+919998887776,Cognizant,Software Engineer
+Sneha Gupta,sneha.gupta@gmail.com,+918888777666,Capgemini,Java Developer
+Aditya Kumar,aditya.kumar@gmail.com,+917700112233,HCLTech,Cloud Engineer
+Neha Agarwal,neha.agarwal@gmail.com,+919955667788,LTIMindtree,Frontend Developer
+Karan Malhotra,karan.malhotra@gmail.com,+918765432109,Tech Mahindra,DevOps Engineer
+Ishita Roy,ishita.roy@gmail.com,+919900112244,Microsoft India,Software Development Engineer
+Arjun Nair,arjun.nair@gmail.com,+919776655443,Amazon Development Centre India,SDE I
+Nikhil Jain,nikhil.jain@gmail.com,+918899001122,Google India,Software Engineer
+Pooja Yadav,pooja.yadav@gmail.com,+917788990011,Persistent Systems,Associate Software Engineer
+Vivek Mishra,vivek.mishra@gmail.com,+919877665544,Oracle India,Application Developer
+Aditi Joshi,aditi.joshi@gmail.com,+918877665544,Paytm,Software Engineer
