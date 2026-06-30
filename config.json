@@ -1,0 +1,26 @@
+{
+    "fields": [
+        {
+            "path": "name",
+            "from": "full_name"
+        },
+        {
+            "path": "email",
+            "from": "emails[0]"
+        },
+        {
+            "path": "phone",
+            "from": "phones[0]"
+        },
+        {
+            "path": "github",
+            "from": "links.github"
+        },
+        {
+            "path": "linkedin",
+            "from": "links.linkedin"
+        }
+    ],
+    "include_confidence": true,
+    "on_missing": "null"
+}
